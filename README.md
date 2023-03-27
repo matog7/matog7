@@ -1,4 +1,4 @@
-### Accédez à mon portfolio ! Cliquez ici <a href= "[https://matog7.github.io](https://matog7.github.io/)" target= "_blank"> 📁 </a>
+### Accédez à mon portfolio ! Cliquez ici <a href= "https://matog7.github.io/" target= "_blank"> 📁 </a>
 <!--
 **matog7/matog7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
